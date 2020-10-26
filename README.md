@@ -23,7 +23,7 @@ Netflix's Homepage made using ReactJS<br>
 
 ## Setup
 Download or Clone the Code Files, and Run using 'yarn start'<br>
-Do not forget to add API Key in 'request.js' file
+Do not forget to add API Key in 'requests.js' file
 
 ## Features
 List of features ready
