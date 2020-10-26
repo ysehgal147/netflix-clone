@@ -12,7 +12,7 @@
 
 ## General info
 Netflix's Homepage made using ReactJS
-<a link="https://netflix-5f890.web.app/" alt="link">Click Here</a> for Deployed Version
+[Deployed Version](https://netflix-5f890.web.app/)
 
 ## Screenshots
 <img src="https://raw.githubusercontent.com/ysehgal147/netflix-clone/main/Screenshot%202020-10-26%20at%208.26.59%20PM.png" width="850">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/ysehgal147/netflix-clone/main/Screenshot%202020-10-26%20at%208.27.04%20PM.png" width="850">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/ysehgal147/netflix-clone/main/Screenshot%202020-10-26%20at%208.28.25%20PM.png" width="850">
