@@ -22,7 +22,7 @@ Netflix's Homepage made using ReactJS<br>
 * Firebase
 
 ## Setup
-Download or Clone the Code Files, and Run using 'yarn start'
+Download or Clone the Code Files, and Run using 'yarn start'<br>
 Do not forget to add API Key in 'request.js' file
 
 ## Features
