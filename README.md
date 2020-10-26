@@ -11,7 +11,7 @@
 * [Contact](#contact)
 
 ## General info
-Netflix's Homepage made using ReactJS
+Netflix's Homepage made using ReactJS<br>
 [Deployed Version](https://netflix-5f890.web.app/)
 
 ## Screenshots
