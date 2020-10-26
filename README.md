@@ -14,8 +14,7 @@
 Netflix's Homepage made using ReactJS
 
 ## Screenshots
-<img src="https://raw.githubusercontent.com/ysehgal147/netflix-clone/main/Screenshot%202020-10-26%20at%208.26.59%20PM.png" width="800">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/ysehgal147/netflix-clone/main/Screenshot%202020-10-26%20at%208.27.04%20PM.png" width="800">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/ysehgal147/e-commerce-ios-app/master/Screenshot/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-07-19%20at%2003.00.34.png" width="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/ysehgal147/e-commerce-ios-app/master/Screenshot/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-07-19%20at%2003.39.17.png" width="200">
-
+<img src="https://raw.githubusercontent.com/ysehgal147/netflix-clone/main/Screenshot%202020-10-26%20at%208.26.59%20PM.png" width="850">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/ysehgal147/netflix-clone/main/Screenshot%202020-10-26%20at%208.27.04%20PM.png" width="850">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/ysehgal147/netflix-clone/main/Screenshot%202020-10-26%20at%208.28.25%20PM.png" width="850">
 ## Technologies
 * SwiftUI
 
